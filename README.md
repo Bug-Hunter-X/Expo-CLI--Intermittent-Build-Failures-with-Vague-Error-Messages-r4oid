@@ -1,0 +1,3 @@
+# Expo CLI Intermittent Build Failures
+
+This repository demonstrates a problem encountered while using Expo CLI to build a React Native application.  The issue involves intermittent build failures with vague and unhelpful error messages. The error occurs inconsistently and does not provide clear indication of the root cause.  The project includes a sample `bug.js` file that might trigger the error, and `bugSolution.js` provides a potential solution (if found).  This issue has been observed across different development machines and Expo SDK versions.  Further investigation is needed to identify the exact conditions leading to the errors.
